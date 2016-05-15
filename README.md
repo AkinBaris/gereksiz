@@ -1,1 +1,1 @@
-"# gereksiz" 
+okul
