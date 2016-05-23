@@ -1,6 +1,6 @@
 <?php
 
-namespace frontend\modules\kategori\controllers;
+namespace AkinBaris\gereksiz\kategori\controllers;
 
 use yii\web\Controller;
 
